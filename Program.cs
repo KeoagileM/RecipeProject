@@ -103,6 +103,8 @@ namespace FirstProject
                 {
                     Console.WriteLine("Step number " + (i+1) + recipe[i]);
                 }
+
+                Console.WriteLine("Thank you for using our Application");
                 
             }
 
